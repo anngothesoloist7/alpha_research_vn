@@ -39,7 +39,15 @@ Due to GitHub’s file size limits, large datasets are hosted externally.
 | `technical.csv` | Processed technical data | [Google Drive Link](https://drive.google.com/file/d/1j7J1K_6YbTCWIZuFnwN0_g1TM0k3mWqE/view?usp=sharing) |
 
 ---
+## 📊 Strategy Performance
 
+**In-Sample (Training) Result**
+![In-Sample Result](https://drive.google.com/uc?export=view&id=19adyHXGnZE8ScPV1Lsb1FX1dVjKU86zk)
+
+**Out-of-Sample (Backtest) Result**
+![Out-of-Sample Result](https://drive.google.com/uc?export=view&id=1B5cFmrFiOzhS82gPyOhzmY2iA_PyFDRi)
+
+---
 ## 🧩 Tech Stack
 - **Python:** pandas, numpy, statsmodels, sklearn, matplotlib, CVXPY
 - **Research tools:** Jupyter Notebook, Git, Google Colab  
