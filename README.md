@@ -42,10 +42,10 @@ Due to GitHub’s file size limits, large datasets are hosted externally.
 ## 📊 Strategy Performance
 
 **In-Sample (Training) Result**
-![In-Sample Result](https://drive.google.com/uc?export=view&id=19adyHXGnZE8ScPV1Lsb1FX1dVjKU86zk)
+![In-Sample Result](https://drive.google.com/uc?export=view&id=1B5cFmrFiOzhS82gPyOhzmY2iA_PyFDRi)
 
 **Out-of-Sample (Backtest) Result**
-![Out-of-Sample Result](https://drive.google.com/uc?export=view&id=1B5cFmrFiOzhS82gPyOhzmY2iA_PyFDRi)
+![Out-of-Sample Result](https://drive.google.com/uc?export=view&id=19adyHXGnZE8ScPV1Lsb1FX1dVjKU86zk)
 
 ---
 ## 🧩 Tech Stack
