@@ -36,7 +36,7 @@ Due to GitHub’s file size limits, large datasets are hosted externally.
 |------|--------------|---------|
 | `strategy_output.csv` | Trading signal & performance output | [Google Drive Link](https://drive.google.com/file/d/1iCese6w6B12u0Ad0_ktMqPjfozN_l-ri/view?usp=sharing) |
 | `full_technical.csv` | Full technical indicator dataset | [Google Drive Link](https://drive.google.com/file/d/1_lNJmXMCvfoFN96CgnHDQDY81tayjDaO/view?usp=sharing) |
-| `technical.csv` | Processed technical data | [Google Drive Link]([https://drive.google.com/file/d/1j7J1K_6YbTCWIZuFnwN0_g1TM0k3mWqE/view?usp=sharing]) |
+| `technical.csv` | Processed technical data | [Google Drive Link](https://drive.google.com/file/d/1j7J1K_6YbTCWIZuFnwN0_g1TM0k3mWqE/view?usp=sharing) |
 
 ---
 
