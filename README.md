@@ -2,7 +2,7 @@
 
 This project develops and backtests a quantitative **alpha model** for Vietnam's stock market, covering **1,327 equities** listed across **HOSE, HNX, and UPCOM** exchanges.
 
-The strategy is built using **price–volume data** and fundamental indicators, trained on data from **early 2025 to present**, with separate in-sample (IS) and out-of-sample (OOS) backtests.
+The strategy is built using **price–volume data** and fundamental indicators, trained on data from **early 2023 to present**, with separate in-sample (IS) and out-of-sample (OOS) backtests.
 
 ---
 
